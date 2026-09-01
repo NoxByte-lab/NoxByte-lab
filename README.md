@@ -1,4 +1,4 @@
-# Hi, I'm Gaurav 👋
+# Hi, I'm NoxByte 👋
 
 **Web Developer | Building clean, modern & interactive websites**
 
